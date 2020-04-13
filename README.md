@@ -16,4 +16,4 @@ Plot 2D zeolite illustration can be easy, see [Demo](./demo.ipynb)
 
 ## Acknowledgement
 
-All structures used for demo were from [IZA](www.http://www.iza-structure.org/IZA-SC/framework.php?STC=CHA)
+All structures used for demo were from [IZA](http://www.iza-structure.org/IZA-SC/framework.php?STC=CHA)
