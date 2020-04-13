@@ -1,5 +1,6 @@
 # %%[markdown]
 # # Zeo2D
+# ---
 # Utilities for plotting zeolite illustrations.
 # %%
 from zeo2d import readcif, view, cleave, plot_stick_and_ball, plot_zeolite
@@ -15,7 +16,7 @@ plot_zeolite("iza-structure.org/BEA.cif", surface=(1, 0, 0), supercell=(4, 2, 1)
 plot_zeolite("iza-structure.org/LTA.cif", surface=(0, 0, 1),
     Si_style={'s': 0, 'lw': 0})
 # %%[markdown]
-# ## Plot with O atoms.
+# ## Plot with O atoms
 # %%
 plot_zeolite("iza-structure.org/LTA.cif", (0, 0, 1), plot_O=True,
     O_style={'s': 24, 'lw': 0, 'c': 'wheat', 'edgecolors': ''},

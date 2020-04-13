@@ -4,7 +4,7 @@ Plot 3D zeolites as 2D illustrations.
 
 ## Introduction
 
-Plot 2D zeolite illustration can be easy, see [Demo](./demo.ipynb)
+Plot 2D zeolite illustration can be easy, see [Demo](./demo.ipynb).
 
 ![An AFI structure](./AFI.svg)
 
